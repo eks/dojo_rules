@@ -6,3 +6,4 @@ Skils
 * JS
 * Git
 * Linux
+* Killing history using git rebase
